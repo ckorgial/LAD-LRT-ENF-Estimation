@@ -1,6 +1,6 @@
 # Leveraging Electric Network Frequency Estimation for Audio Authentication
 
-We would like to acknowledge (Hua et al.) for their work [Robust ENF Estimation Based on Harmonic Enhancement and Maximum Weight Clique](https://ieeexplore.ieee.org/abstract/document/9494518) which inspired us to develop our robust detector. We would like to thank them for sharing their codes in [ENF_Enhancement_Estimation](https://github.com/ghua-ac/ENF-WHU-Dataset/tree/master/ENF_Enhancement_Estimation) folder. 
+We would like to acknowledge (Hua et al.) for their work [Robust ENF Estimation Based on Harmonic Enhancement and Maximum Weight Clique](https://ieeexplore.ieee.org/abstract/document/9494518) which inspired us to develop our robust estimation schemes. We would like to thank them for sharing their codes in [ENF_Enhancement_Estimation](https://github.com/ghua-ac/ENF-WHU-Dataset/tree/master/ENF_Enhancement_Estimation) folder. 
 
 # Our Paper
 
